@@ -1,6 +1,5 @@
 // ========== USUARIOS AUTORIZADOS ==========
 const USERS = [
-    { username: "cliea1", password: "1111", expiresAt: new Date("2027-12-12"), emails: [] },
     { username: "luisa", password: "1111", expiresAt: new Date("2026-01-23"), emails: [] }
 ];
 
