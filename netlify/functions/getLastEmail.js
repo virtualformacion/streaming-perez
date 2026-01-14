@@ -46,6 +46,7 @@ exports.handler = async (event) => {
       "amazon.com: Sign-in attempt",
       "amazon.com: Intento de inicio de sesión",
       "Amazon password assistance",
+      "Netflix: Tu código de inicio de sesión",
       "Urgente: Tu código de un solo uso de HBO Max",
       "Your one-time passcode for Disney+",
       "Tu código de acceso único para Disney+" // Asunto específico de Disney+
