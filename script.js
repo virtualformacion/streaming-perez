@@ -1,6 +1,6 @@
 // ========== USUARIOS AUTORIZADOS ==========
 const USERS = [
-
+    { username: "vip121", password: "12131", expiresAt: new Date("2026-02-28"), emails: ["villadiegokaren38+hermanos@gmail.com","villadiegokaren38+sacunda@gmail.com","villadiegokaren38+sacunda@gmail.com","josedadowke+feriad@gmail.com","josedadowke+festivo@gmail.com","villadiegokaren38+cali@gmail.com","josedadowke+cana@gmail.com","josedadowke+63@gmail.com","josedadowke+72@gmail.com","josedadowke+sonora@gmail.com","josgalaxy02+773@gmail.com","josgalaxy02+100@gmail.com","josgalaxy02+careta@gmail.com","josgalaxy02+miercol@gmail.com","josgalaxy02+france@gmail.com","josgalaxy02+enero@gmail.com","josgalaxy02+5@gmail.com","josgalaxy02+2@gmail.com","villadiegokaren38+87@gmail.com","villadiegokaren38+horas@gmail.com","villadiegokaren38+perez@gmail.com","villadiegokaren38+corozo@gmail.com","villadiegokaren38+propero@gmail.com","loro2353@outlook.com","villadiegokaren38+navidad@gmail.com","villadiegokaren38+recardo@gmail.com","villadiegokaren38+diciembe@gmail.com","villadiegokaren38+flores@gmail.com","villadiegokaren38+perez@gmail.com"] }
 ];
 
 const MAX_ATTEMPTS = 1000000;
