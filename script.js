@@ -7,7 +7,8 @@ const USERS = [
     { username: "cliente055", password: "12132", expiresAt: new Date("2026-02-28"), emails: ["soportedisney@streamingperez.xyz","premiundisney@streamingperez.xyz","villadiegokaren38+75@gmail.com","villadiegokaren38+julio@gmail.com","josgalaxy02+regalo@gmail.com","villadiegokaren38+mario@gmail.com","villadiegokaren38+79@gmail.com","josgalaxy02+sabad@gmail.com","villadiegokaren38+saconcho@gmail.com","villadiegokaren38+car@gmail.com","josgalaxy02+satanas@gmail.com","villadiegokaren38+121net@gmail.com","villadiegokaren38+recar@gmail.com","villadiegokaren38+soporte@gmail.com","josefa132@outlook.es","recargassoporte@outlook.es","villadiegokaren38+60@gmail.com","villadiegokaren38+gar@gmail.com","villadiegokaren38+34racargaa@gmail.com","felicidad202511@outlook.com","josgalaxy02+110@gmail.com","villadiegokaren38+63@gmail.com","casares24@outlook.es","josgalaxy02+1@gmail.com","villadiegokaren38+121jod@gmail.com","carlota1231965@outlook.es"] },
     { username: "cliente312", password: "12145", expiresAt: new Date("2026-02-28"), emails: ["josgalaxy02+nuves@gmail.com","josgalaxy02+54@gmail.com","disneyperu@streamingperez.xyz","juancaww192+76@gmail.com"] },
     { username: "cliente493", password: "12178", expiresAt: new Date("2026-02-28"), emails: ["standard@streamingperez.xyz","josgalaxy02+zona@gmail.com","villadiegokaren38+venezuela@gmail.com","josgalaxy02+zona@gmail.com"] },
-    { username: "cliente8570", password: "23143", expiresAt: new Date("2026-02-28"), emails: ["villadiegokaren38+promocion@gmail.com","villadiegokaren38+parades@gmail.com"] }
+    { username: "cliente8570", password: "23143", expiresAt: new Date("2026-02-28"), emails: ["villadiegokaren38+promocion@gmail.com","villadiegokaren38+parades@gmail.com"] },
+    { username: "cliente845", password: "11223344", expiresAt: new Date("2026-02-28"), emails: ["josgalaxy02+laotra@gmail.com"] }
 ];
 
 const MAX_ATTEMPTS = 1000000;
