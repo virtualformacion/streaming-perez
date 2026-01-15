@@ -32,7 +32,7 @@ exports.handler = async (event) => {
 
     const response = await gmail.users.messages.list({
       userId: "me",
-      maxResults: 10, // Buscar hasta 10 correos
+      maxResults: 30, // Buscar hasta 30 correos
     });
 
     console.log("📩 Correos encontrados:", response.data.messages);
