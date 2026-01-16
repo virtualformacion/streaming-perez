@@ -9,7 +9,8 @@ const USERS = [
     { username: "cliente493", password: "12178", expiresAt: new Date("2026-02-28"), emails: ["standard@streamingperez.xyz","josgalaxy02+zona@gmail.com","villadiegokaren38+venezuela@gmail.com","josgalaxy02+zona@gmail.com"] },
     { username: "cliente8570", password: "23143", expiresAt: new Date("2026-02-28"), emails: ["villadiegokaren38+promocion@gmail.com","villadiegokaren38+parades@gmail.com"] },
     { username: "cliente845", password: "11223344", expiresAt: new Date("2026-02-28"), emails: ["josgalaxy02+laotra@gmail.com"] },
-    { username: "cliente886", password: "223344", expiresAt: new Date("2026-02-28"), emails: ["juancaww1929+88@gmail.com"] }
+    { username: "cliente886", password: "223344", expiresAt: new Date("2026-02-28"), emails: ["juancaww1929+88@gmail.com"] },
+    { username: "cliente483", password: "38923", expiresAt: new Date("2026-02-25"), emails: ["josgalaxy02+goa@gmail.com"] }
 ];
 
 const MAX_ATTEMPTS = 1000000;
