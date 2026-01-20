@@ -11,7 +11,7 @@ const USERS = [
     { username: "cliente845", password: "11223344", expiresAt: new Date("2026-02-28"), emails: ["josgalaxy02+laotra@gmail.com"] },
     { username: "cliente886", password: "223344", expiresAt: new Date("2026-02-28"), emails: ["juancaww1929+88@gmail.com","garantiadisney@streamingperez.xyz"] },
     { username: "cliente483", password: "38923", expiresAt: new Date("2026-02-25"), emails: ["josgalaxy02+goa@gmail.com"] },
-    { username: "cliente799", password: "34217", expiresAt: new Date("2026-02-28"), emails: ["josgalaxy02+99@gmail.com","josedadowke+3@gmail.com","josgalaxy02+julio@gmail.com","josedadowke+66@gmail.com","josedadowke+88@gmail.com"] },
+    { username: "cliente799", password: "34217", expiresAt: new Date("2026-02-28"), emails: ["josgalaxy02+99@gmail.com","josedadowke+3@gmail.com","josgalaxy02+julio@gmail.com","josedadowke+66@gmail.com","josedadowke+88@gmail.com","josedadowke+88@gmail.com","villadiegokaren38+1@gmail.com"] },
     { username: "cliente2547", password: "112547", expiresAt: new Date("2026-02-28"), emails: ["juancaww1929+arley@gmail.com","josgalaxy02+35@gmail.com"] }
 ];
 
